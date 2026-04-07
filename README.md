@@ -3,6 +3,7 @@
 A reusable skill template for simulating an NPD-flavored interpersonal style with safety boundaries, memory layers, and correction workflows.
 
 For Chinese documentation, see [SKILL.zh-CN.md](SKILL.zh-CN.md).
+Project homepage in Chinese: [README.zh-CN.md](README.zh-CN.md)
 
 ## Suggested GitHub Metadata
 
@@ -109,3 +110,7 @@ This repository is structurally inspired by the idea behind [`therealXiaomanChu/
 ## License
 
 [MIT](LICENSE)
+
+## Changelog
+
+[CHANGELOG.md](CHANGELOG.md)
