@@ -4,6 +4,16 @@ A reusable skill template for simulating an NPD-flavored interpersonal style wit
 
 For Chinese documentation, see [SKILL.zh-CN.md](SKILL.zh-CN.md).
 
+## Suggested GitHub Metadata
+
+Repository description:
+
+`An ex-skill-inspired NPD persona skill with persona, memory, correction, and intake workflows for roleplay, writing, and pattern analysis.`
+
+Suggested topics:
+
+`skill`, `agent-skill`, `persona`, `roleplay`, `prompt-engineering`, `character-ai`, `memory`, `psychology`, `dialogue`, `writing`
+
 ## What This Is
 
 `npd-skill` is a skill template for:
@@ -58,6 +68,16 @@ In short:
 4. Record mistakes and refinements in [corrections.zh-CN.md](corrections.zh-CN.md)
 5. Track updates in [version-history.zh-CN.md](version-history.zh-CN.md)
 
+## Quick Start
+
+1. Read [SKILL.zh-CN.md](SKILL.zh-CN.md) or [SKILL.md](SKILL.md)
+2. Fill [intake-template.zh-CN.md](intake-template.zh-CN.md)
+3. Use [intake-example-filled.zh-CN.md](intake-example-filled.zh-CN.md) as a formatting guide
+4. Distill stable patterns into [persona.zh-CN.md](persona.zh-CN.md)
+5. Distill concrete shared details into [memory.zh-CN.md](memory.zh-CN.md)
+6. Record inaccurate outputs in [corrections.zh-CN.md](corrections.zh-CN.md)
+7. Track each update in [version-history.zh-CN.md](version-history.zh-CN.md)
+
 ## Safety
 
 This project should not be used to:
@@ -85,3 +105,7 @@ Then read:
 ## Credits
 
 This repository is structurally inspired by the idea behind [`therealXiaomanChu/ex-skill`](https://github.com/therealXiaomanChu/ex-skill), especially its separation of persona, relationship memory, corrections, and iterative refinement.
+
+## License
+
+[MIT](LICENSE)
