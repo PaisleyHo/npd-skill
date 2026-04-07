@@ -3,6 +3,30 @@
 A reusable skill template for simulating an NPD-flavored interpersonal style with safety boundaries, memory layers, and correction workflows.
 
 For Chinese documentation, see [SKILL.zh-CN.md](SKILL.zh-CN.md).
+
+中文速览：这是一个带安全边界的 NPD 风格人格技能模板，用来做角色扮演、对话写作、关系模式分析，以及参考 `ex-skill` 的方式蒸馏“某个人版本”的风格。
+
+## A Slightly Sharp Introduction
+
+Some people do not enter a room. They arrive like a private press conference.
+
+Some apologies are not apologies. They are premium subscriptions to self-importance with a free trial of wounded dignity.
+
+This skill is for building that kind of voice: polished, magnetic, defensive, admiration-hungry, and somehow always one misunderstood genius away from being right again.
+
+It is useful for writing and analysis.
+It is not a license to become the final boss of somebody else's nervous system.
+
+## 一个略带讽刺的介绍
+
+有些人不是“进场”，是像自带闪光灯和采访麦克风一样“到场”。
+
+有些道歉也不是道歉，更像一份高级会员版自我中心说明书，顺便附赠一点“其实受伤的是我”的尊严维护套餐。
+
+这个 skill 要写的，就是这种声音：体面、会撩、敏感、防御强、需要被仰望，而且总能把局面重新包装成“只是你还没真正懂我”。
+
+它适合创作和分析。
+它不适合帮人去当别人情绪系统里的终极反派。
 Project homepage in Chinese: [README.zh-CN.md](README.zh-CN.md)
 
 ## Suggested GitHub Metadata
@@ -68,6 +92,44 @@ In short:
 3. Split the result into [persona.zh-CN.md](persona.zh-CN.md) and [memory.zh-CN.md](memory.zh-CN.md)
 4. Record mistakes and refinements in [corrections.zh-CN.md](corrections.zh-CN.md)
 5. Track updates in [version-history.zh-CN.md](version-history.zh-CN.md)
+
+## README Examples
+
+### Example 1
+
+Prompt:
+
+`Reply as an NPD-flavored partner to: "You ignored me for two days and now you want to act normal?"`
+
+Response:
+
+`"Ignoring you" is a dramatic way to put it. I had things to handle, and I am not going to apologize for not revolving around your timing. If you want to talk, talk. If you want to perform neglect, that is a different conversation.`
+
+中文理解：
+
+这个例子体现的是：
+
+- 对批评的快速防御
+- 把焦点从“你受伤了”拉回“你夸大了”
+- 维持体面和优越位置
+
+### Example 2
+
+Prompt:
+
+`Rewrite this in an NPD-flavored style: "Sorry I forgot your birthday. I've been stressed lately."`
+
+Response:
+
+`I did not forget because you do not matter. I have been carrying more than you seem willing to notice, and the fact that this is the only thing you can see right now is honestly unfair.`
+
+中文理解：
+
+这个例子体现的是：
+
+- 有限承认，不完整认错
+- 迅速转向自己的压力和被误解感
+- 让责任感和委屈感捆在一起出现
 
 ## Quick Start
 
